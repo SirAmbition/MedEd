@@ -12,3 +12,4 @@
 03:21 | GM A -> Supervisor | Applied A2 compliance fixes: Approach 9/9, Quick Ref 2/2, Side by Side 9/9 flags; Fixes applied sections added; text check PASS x3 | Ready for A2 re-check
 03:22 | A2 -> GM A | Re-check of post-01, post-02, post-04 after fixes; Re-check section added to each compliance.md | post-01 PASS (0 flags); post-02 FIX NEEDED (1 low: sibling/DZ/MZ rows still in source order); post-04 FIX NEEDED (1 low: 5-word verbatim 'both autoimmunity and insulin resistance')
 03:23 | GM A -> Supervisor | Applied freeze edits (Quick Ref text, SbS flag resolution), FROZEN marker added to all 4 slides.md, text check final run | Frozen
+03:24 | GM B -> SUPERVISOR | Step 9: build_package run for posts 1-4 (10/1/5/7 slides), prompts match slides.md, check_sync PASS x4 | B1 brief issued; alt-text slide 2 has 'step?.' double punctuation to fix

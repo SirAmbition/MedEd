@@ -1,0 +1,19 @@
+Slide 1: Symptoms plus random 11.1 mmol/L: diagnosed today. Classic symptoms plus a random venous glucose of 11.1 mmol/L or more diagnose diabetes. If symptoms are not unequivocal, confirm by repeat testing. An OGTT is seldom needed. [DESCRIBE VISUAL: One bold glucose number on a clean card beside a symptom checklist icon.]
+
+Slide 2: Ask about night wetting, not just thirst. Over 90% have polyuria and polydipsia, yet these often surface only when you ask about wet nappies, night wetting, new daytime wetting or thirst. The child may be hypovolaemic without looking dry. [DESCRIBE VISUAL: A question mark over a bed icon, with a small water-drop icon.]
+
+Slide 3: Under-3s: over half arrive in DKA. DKA is the first presentation in about 30% of children, range 15 to 70%. Risk is higher under 6 years and with socioeconomic disadvantage. Over half of under-3s present this way. [DESCRIBE VISUAL: An age ladder with the under-3 rung highlighted.]
+
+Slide 4: Draw antibodies before the first insulin dose. Send ZnT8, GAD65, IAA and IA-2 at presentation, ideally before the first insulin dose or soon after. Insulin antibodies may appear about 10 to 14 days after insulin is first given. [DESCRIBE VISUAL: A syringe beside four labelled sample tubes, with a clock icon showing timing.]
+
+Slide 5: HbA1c looks back 10 to 12 weeks. Confirm HbA1c of 6.5% or more with a second measure. Fasting glucose of 7.0 mmol/L or more on two occasions also counts. Haemoglobin variants and rapid red-cell turnover mislead HbA1c. [DESCRIBE VISUAL: A 10 to 12 week calendar strip with a glucose drop-line, no numbers on the icon.]
+
+Slide 6: Antibody-negative T1DM is still type 1B. Most T1DM shows islet antibodies, the type 1A pattern. Clinical T1DM with no detectable antibodies and no other cause is type 1B. [DESCRIBE VISUAL: A two-branch tree: antibody positive to 1A, antibody negative to 1B.]
+
+Slide 7: Measure C-peptide once the child has recovered. If T2DM is possible, measure insulin and C-peptide after recovery from the hyperglycaemic stress. Glucotoxicity and acute illness can suppress both. Low for the glucose points to T1DM; high points to T2DM. [DESCRIBE VISUAL: A timeline with an acute-illness block and a recovery arrow leading to a lab tube.]
+
+Slide 8: Steroids and critical illness can raise glucose. Diabetes is the main cause of significant hyperglycaemia in a previously well child. Non-diabetic causes: critical illness, high-dose steroids, acute sympathomimetics. Drug-induced diabetes can follow atypical antipsychotics, tacrolimus or glucocorticoids. [DESCRIBE VISUAL: A stack of three drug-pill icons beside a single-lens magnifier over a glucose line.]
+
+Slide 9: Glycosuria with normal glucose is not diabetes. Renal glycosuria and Fanconi syndrome both spill glucose into urine while plasma glucose stays normal. Check plasma glucose before reading urine glucose as diabetes. [DESCRIBE VISUAL: A urine dipstick with a question mark on the glucose pad.]
+
+Slide 10: Glucose, antibodies, HbA1c, C-peptide, then cause. Working order, not a protocol: symptoms plus glucose 11.1 mmol/L or more; antibodies before insulin; HbA1c limits; type 1A or 1B; C-peptide after recovery; then non-diabetic and drug causes. Save for your next new-onset child. [DESCRIBE VISUAL: A numbered staircase of six steps with a save bookmark at the top.]
