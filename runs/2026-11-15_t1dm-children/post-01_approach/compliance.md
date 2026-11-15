@@ -18,7 +18,6 @@ AHPRA: no patient information, no individual advice, no testimonials. Friday Cas
 
 Flags: 9 (1 high, 4 medium, 4 low).
 
-VERDICT: FIX NEEDED
 
 ## Fixes applied (GM A, after compliance review)
 All 9 flags accepted. Text check PASS.
@@ -30,3 +29,23 @@ All 9 flags accepted. Text check PASS.
 - S7: headline "Measure C-peptide once the child has recovered"; body says "can suppress" (p.10).
 - S8: reworded; drug list reordered (atypical antipsychotics, tacrolimus, glucocorticoids) (p.12).
 - S9: reworded (p.12). S10: now "Working order, not a protocol".
+
+## Re-check (A2, after GM A fixes)
+
+Scope: current slides.md against source.txt. Verbatim scan (5 and 6+ word runs) on Headline and Body, near-swaps, list order, AHPRA.
+
+| Slide | Remaining issue | Suggested rewrite |
+|---|---|---|
+| 1 | none | none |
+| 2 | none (order now wet nappies, night wetting, daytime wetting, thirst; not the source order) | none |
+| 4 | none ("10 to 14 days after" is a 5-word numeric fact, acceptable; antibody order ZnT8, GAD65, IAA, IA-2 is not the source order) | none |
+| 5 | none ("on two occasions" is not a verbatim run; source p.14 "at least two" is paraphrased) | none |
+| 6 | none | none |
+| 7 | none | none |
+| 8 | none (drug list and non-diabetic list no longer in source order) | none |
+| 9 | none | none |
+| 10 | none | none |
+
+Flags remaining: 0.
+
+VERDICT: PASS

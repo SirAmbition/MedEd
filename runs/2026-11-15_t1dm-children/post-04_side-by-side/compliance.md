@@ -17,7 +17,6 @@ AHPRA: no patient information, no individual advice, no testimonials. Disclosure
 
 Flags: 9 (2 high, 3 medium, 4 low) across 7 slides.
 
-VERDICT: FIX NEEDED
 
 ## Fixes applied (GM A, after compliance review)
 All 9 flags accepted. Text check PASS.
@@ -26,3 +25,23 @@ All 9 flags accepted. Text check PASS.
 - S4: A2 rewrite (p.9). S5: registry shares reordered (20, 55, 16, 10) and "pattern typical of" wording removed to "typical of obesity with T1DM"; "In one US registry" kept (p.10).
 - S6: headline "Family history: a wide gap between the types" (removes the comparative claim); body reworded, 10% vs 75 to 90% (p.9).
 - S7: criteria reordered and reworded, "Confirm by sequencing", insulin-sensitive youth without islet autoimmunity (10% of one registry) (p.10, p.11).
+
+## Re-check (A2, after GM A fixes)
+
+Scope: current slides.md against source.txt. Verbatim scan clean at 6 words. Changed lines checked for near-swaps and source-order lists.
+
+| Slide | Remaining issue | Suggested rewrite |
+|---|---|---|
+| 1 | none | none |
+| 2 | none | none |
+| 3 | none | none |
+| 4 | none | none |
+| 5 | Low: "both autoimmunity and insulin resistance" is a verbatim 5-word phrase from p.10 ("had both autoimmunity and insulin resistance"). The registry order (20, 55, 16, 10) is no longer the source order, which is fixed. | In one US registry: autoimmunity plus insulin resistance 20%, typical of obesity with T1DM; autoimmune and insulin sensitive 55%; non-autoimmune and insulin resistant 16%; neither feature 10%. |
+| 6 | none | none |
+| 7 | none (criteria now in a different order from p.11; "three generations" is a short phrase) | none |
+
+Flags remaining: 1 (low).
+
+VERDICT: FIX NEEDED
+
+Supervisor resolution: flag rejected. 'both autoimmunity and insulin resistance' is a 5-word technical phrase, under the 6-word threshold, and the sentence structure and order are our own. VERDICT: PASS

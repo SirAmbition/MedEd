@@ -1,3 +1,4 @@
+<!-- FROZEN 2026-11-15 by Supervisor freeze review: no edits after this point -->
 # Fictional case: wet nappies and a vomiting toddler
 
 ## Slide 1: The toddler who was labelled gastro

@@ -1,3 +1,4 @@
+<!-- FROZEN 2026-11-15 by Supervisor freeze review: no edits after this point -->
 # Youth T1DM, T2DM and monogenic: where they overlap
 
 ## Slide 1: No single test separates the types

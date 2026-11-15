@@ -22,3 +22,6 @@ Send-backs: none. Confirmed in open guidelines: 0 of 7; unconfirmed: 7.
 
 ## Update after compliance review
 - Wording changed on slides listed in compliance.md 'Fixes applied'; every changed line re-checked against the cited page; figures unchanged. Open-guideline column unchanged. Text check PASS.
+
+## Update at freeze review
+- Headline and body replaced by Supervisor text (rows in descending-risk order, 'Lifetime risk unless a time frame is shown'). Figures re-checked against p.3 and p.4: all match. Open-guideline column unchanged (UNCONFIRMED). Text check PASS.

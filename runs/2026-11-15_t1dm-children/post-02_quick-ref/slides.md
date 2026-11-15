@@ -1,8 +1,9 @@
-# Childhood T1DM risk by affected relative
+<!-- FROZEN 2026-11-15 by Supervisor freeze review: no edits after this point -->
+# T1DM risk by relative: fathers outrank mothers
 
-## Slide 1: Childhood T1DM risk by affected relative
-**Headline:** Childhood T1DM risk by affected relative
-**Body:** Child's risk: father affected 3 to 8%, mother affected 1 to 4% (father higher). No family history 0.4%. Non-twin sibling 3 to 6% by age 20. Dizygotic twin 8%. Monozygotic twin 30% within 10 years of first twin's diagnosis, 65% by age 60. Both parents affected: reported up to 30%. Lifetime risk; sibling and twin rows have set time frames.
+## Slide 1: T1DM risk by relative: fathers outrank mothers
+**Headline:** T1DM risk by relative: fathers outrank mothers
+**Body:** Lifetime risk unless a time frame is shown. Monozygotic twin: 30% within 10 years of the twin's diagnosis, 65% by age 60. Both parents: reported up to 30%. Dizygotic twin: 8%. Father: 3 to 8%. Mother: 1 to 4%. Non-twin sibling: 3 to 6% by age 20. No family history: 0.4%.
 **Visual:** One table, rows ordered by risk, with a small family-tree icon in the header and no text inside icons.
 **Source:** p.3, p.4
 

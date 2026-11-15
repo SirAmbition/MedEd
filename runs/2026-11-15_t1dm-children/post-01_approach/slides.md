@@ -1,3 +1,4 @@
+<!-- FROZEN 2026-11-15 by Supervisor freeze review: no edits after this point -->
 # New diabetes in a child: the work-up in order
 
 ## Slide 1: One reading can be enough
