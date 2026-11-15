@@ -13,7 +13,7 @@ Typography: modern sans-serif (like Manrope). Headline bold in deep slate (#1F2A
 Cards: liquid glass: translucent white at about 45 percent opacity, background blur, soft glossy highlight along the top edge, thin white border, large rounded corners.
 Accents: deep teal (#0B4F4C, #0F6E6A) for tiles and small thin-line icons (secondary to the text, no letters inside icons). Amber (#C98A1A) only for a warning or "UPDATED" badge.
 
-Layout and icon for this slide: One bold glucose number on a clean card beside a symptom checklist icon.
+Layout and icon for this slide: One bold focal card carrying the headline's glucose figure, with a symptom checklist icon beside it.
 
 EXACT TEXT. Render exactly as written, character for character, no changes:
 Headline: "Symptoms plus random 11.1 mmol/L: diagnosed today"
@@ -82,7 +82,7 @@ Typography: modern sans-serif (like Manrope). Headline bold in deep slate (#1F2A
 Cards: liquid glass: translucent white at about 45 percent opacity, background blur, soft glossy highlight along the top edge, thin white border, large rounded corners.
 Accents: deep teal (#0B4F4C, #0F6E6A) for tiles and small thin-line icons (secondary to the text, no letters inside icons). Amber (#C98A1A) only for a warning or "UPDATED" badge.
 
-Layout and icon for this slide: A syringe beside four labelled sample tubes, with a clock icon showing timing.
+Layout and icon for this slide: A syringe beside four sample tubes, with a clock icon showing timing.
 
 EXACT TEXT. Render exactly as written, character for character, no changes:
 Headline: "Draw antibodies before the first insulin dose"
@@ -105,7 +105,7 @@ Typography: modern sans-serif (like Manrope). Headline bold in deep slate (#1F2A
 Cards: liquid glass: translucent white at about 45 percent opacity, background blur, soft glossy highlight along the top edge, thin white border, large rounded corners.
 Accents: deep teal (#0B4F4C, #0F6E6A) for tiles and small thin-line icons (secondary to the text, no letters inside icons). Amber (#C98A1A) only for a warning or "UPDATED" badge.
 
-Layout and icon for this slide: A 10 to 12 week calendar strip with a glucose drop-line, no numbers on the icon.
+Layout and icon for this slide: A calendar strip spanning about three months, with a falling glucose line across it. No numbers on the icon.
 
 EXACT TEXT. Render exactly as written, character for character, no changes:
 Headline: "HbA1c looks back 10 to 12 weeks"
@@ -128,7 +128,7 @@ Typography: modern sans-serif (like Manrope). Headline bold in deep slate (#1F2A
 Cards: liquid glass: translucent white at about 45 percent opacity, background blur, soft glossy highlight along the top edge, thin white border, large rounded corners.
 Accents: deep teal (#0B4F4C, #0F6E6A) for tiles and small thin-line icons (secondary to the text, no letters inside icons). Amber (#C98A1A) only for a warning or "UPDATED" badge.
 
-Layout and icon for this slide: A two-branch tree: antibody positive to 1A, antibody negative to 1B.
+Layout and icon for this slide: A two-branch tree: the left branch for antibody positive, the right branch for antibody negative, each ending in a simple glass tile.
 
 EXACT TEXT. Render exactly as written, character for character, no changes:
 Headline: "Antibody-negative T1DM is still type 1B"
@@ -220,7 +220,7 @@ Typography: modern sans-serif (like Manrope). Headline bold in deep slate (#1F2A
 Cards: liquid glass: translucent white at about 45 percent opacity, background blur, soft glossy highlight along the top edge, thin white border, large rounded corners.
 Accents: deep teal (#0B4F4C, #0F6E6A) for tiles and small thin-line icons (secondary to the text, no letters inside icons). Amber (#C98A1A) only for a warning or "UPDATED" badge.
 
-Layout and icon for this slide: A numbered staircase of six steps with a save bookmark at the top.
+Layout and icon for this slide: Six stepped blocks rising like a staircase, with a save bookmark icon at the top. No numbers on the icon.
 
 EXACT TEXT. Render exactly as written, character for character, no changes:
 Headline: "Glucose, antibodies, HbA1c, C-peptide, then cause"

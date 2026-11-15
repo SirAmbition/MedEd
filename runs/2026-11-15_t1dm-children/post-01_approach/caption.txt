@@ -1,10 +1,12 @@
 Symptoms plus random 11.1 mmol/L: diagnosed today
 
-[2 to 4 lines: the key takeaway in our own words]
+Classic symptoms plus a random glucose of 11.1 mmol/L or more diagnose diabetes, so an OGTT is seldom needed.
+Draw islet antibodies before insulin starts, and check C-peptide once the child has recovered.
+Ask directly about night wetting and thirst, because the history is often missed.
 
 Save this for later and share with a colleague.
 
 Educational content only, not medical advice.
-References: [open sources from slides.md key claims]
+References: [OWNER TO ADD open guideline after confirmation, e.g. ISPAD Clinical Practice Consensus Guidelines 2022; ADA Standards of Care in Diabetes 2026, Section 2]
 
-[3 to 5 hashtags]
+#MedEd #Paediatrics #Type1Diabetes #JuniorDoctor #FOAMed

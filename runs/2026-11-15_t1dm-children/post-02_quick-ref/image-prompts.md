@@ -13,7 +13,7 @@ Typography: modern sans-serif (like Manrope). Headline bold in deep slate (#1F2A
 Cards: liquid glass: translucent white at about 45 percent opacity, background blur, soft glossy highlight along the top edge, thin white border, large rounded corners.
 Accents: deep teal (#0B4F4C, #0F6E6A) for tiles and small thin-line icons (secondary to the text, no letters inside icons). Amber (#C98A1A) only for a warning or "UPDATED" badge.
 
-Layout and icon for this slide: One table, rows ordered by risk, with a small family-tree icon in the header and no text inside icons.
+Layout and icon for this slide: A clean table, not paragraphs. A small header line carries the time-frame sentence, then one row per relative in body order (monozygotic twin, both parents, dizygotic twin, father, mother, non-twin sibling, no family history), each row showing its risk figure. A small family-tree icon sits in the header with no text inside it.
 
 EXACT TEXT. Render exactly as written, character for character, no changes:
 Headline: "T1DM risk by relative: fathers outrank mothers"

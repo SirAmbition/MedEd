@@ -1,10 +1,12 @@
 T1DM risk by relative: fathers outrank mothers
 
-[2 to 4 lines: the key takeaway in our own words]
+Family history raises risk, and the size of the rise depends on who is affected.
+A father with T1DM carries a higher risk to a child than a mother does, and a monozygotic twin carries the highest.
+Use the table as a guide, and remember these are lifetime risks unless a time frame is stated.
 
 Save this for later and share with a colleague.
 
 Educational content only, not medical advice.
-References: [open sources from slides.md key claims]
+References: [OWNER TO ADD open guideline after confirmation, e.g. ISPAD Clinical Practice Consensus Guidelines 2022; ADA Standards of Care in Diabetes 2026, Section 2]
 
-[3 to 5 hashtags]
+#MedEd #Paediatrics #Type1Diabetes #Genetics #FOAMed

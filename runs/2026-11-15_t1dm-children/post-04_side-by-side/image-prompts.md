@@ -13,7 +13,7 @@ Typography: modern sans-serif (like Manrope). Headline bold in deep slate (#1F2A
 Cards: liquid glass: translucent white at about 45 percent opacity, background blur, soft glossy highlight along the top edge, thin white border, large rounded corners.
 Accents: deep teal (#0B4F4C, #0F6E6A) for tiles and small thin-line icons (secondary to the text, no letters inside icons). Amber (#C98A1A) only for a warning or "UPDATED" badge.
 
-Layout and icon for this slide: Two overlapping circles labelled T1DM and T2DM, with a shared centre.
+Layout and icon for this slide: Two overlapping glass circles with a shared centre. No labels inside the icon.
 
 EXACT TEXT. Render exactly as written, character for character, no changes:
 Headline: "No single test separates youth diabetes types"
@@ -36,7 +36,7 @@ Typography: modern sans-serif (like Manrope). Headline bold in deep slate (#1F2A
 Cards: liquid glass: translucent white at about 45 percent opacity, background blur, soft glossy highlight along the top edge, thin white border, large rounded corners.
 Accents: deep teal (#0B4F4C, #0F6E6A) for tiles and small thin-line icons (secondary to the text, no letters inside icons). Amber (#C98A1A) only for a warning or "UPDATED" badge.
 
-Layout and icon for this slide: Two bars: a wide overlap band for weight; for age, T1DM spans both sides of 10 and T2DM sits only after it.
+Layout and icon for this slide: Two bars: a wide overlap band for weight; for age, a T1DM band spanning both sides of an age marker and a T2DM band sitting only after it. No numbers on the icon.
 
 EXACT TEXT. Render exactly as written, character for character, no changes:
 Headline: "Weight overlaps; age under 10 does not"
@@ -59,7 +59,7 @@ Typography: modern sans-serif (like Manrope). Headline bold in deep slate (#1F2A
 Cards: liquid glass: translucent white at about 45 percent opacity, background blur, soft glossy highlight along the top edge, thin white border, large rounded corners.
 Accents: deep teal (#0B4F4C, #0F6E6A) for tiles and small thin-line icons (secondary to the text, no letters inside icons). Amber (#C98A1A) only for a warning or "UPDATED" badge.
 
-Layout and icon for this slide: A T2DM tile with a small antibody marker on a portion of it, labelled as an overlap.
+Layout and icon for this slide: A T2DM tile with a small antibody marker covering part of it, with a dotted outline marking the overlap.
 
 EXACT TEXT. Render exactly as written, character for character, no changes:
 Headline: "Up to 30% of clinical T2DM has antibodies"
@@ -128,7 +128,7 @@ Typography: modern sans-serif (like Manrope). Headline bold in deep slate (#1F2A
 Cards: liquid glass: translucent white at about 45 percent opacity, background blur, soft glossy highlight along the top edge, thin white border, large rounded corners.
 Accents: deep teal (#0B4F4C, #0F6E6A) for tiles and small thin-line icons (secondary to the text, no letters inside icons). Amber (#C98A1A) only for a warning or "UPDATED" badge.
 
-Layout and icon for this slide: A family tree with one highlighted relative, labelled with both figures.
+Layout and icon for this slide: A family tree with one highlighted close relative, marked with a small teal dot on that relative.
 
 EXACT TEXT. Render exactly as written, character for character, no changes:
 Headline: "Family history: a wide gap between the types"

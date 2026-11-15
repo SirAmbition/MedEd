@@ -59,7 +59,7 @@ Typography: modern sans-serif (like Manrope). Headline bold in deep slate (#1F2A
 Cards: liquid glass: translucent white at about 45 percent opacity, background blur, soft glossy highlight along the top edge, thin white border, large rounded corners.
 Accents: deep teal (#0B4F4C, #0F6E6A) for tiles and small thin-line icons (secondary to the text, no letters inside icons). Amber (#C98A1A) only for a warning or "UPDATED" badge.
 
-Layout and icon for this slide: Five labelled cards, A to E, in a row, with no text inside icons.
+Layout and icon for this slide: Options A to E as five full-width rows stacked top to bottom, each a glass card spanning the full width, with its letter at the left edge. No icon text.
 
 EXACT TEXT. Render exactly as written, character for character, no changes:
 Headline: "Five plausible next steps"
@@ -105,7 +105,7 @@ Typography: modern sans-serif (like Manrope). Headline bold in deep slate (#1F2A
 Cards: liquid glass: translucent white at about 45 percent opacity, background blur, soft glossy highlight along the top edge, thin white border, large rounded corners.
 Accents: deep teal (#0B4F4C, #0F6E6A) for tiles and small thin-line icons (secondary to the text, no letters inside icons). Amber (#C98A1A) only for a warning or "UPDATED" badge.
 
-Layout and icon for this slide: Five small cards with a red cross on each wrong option, one green tick on C.
+Layout and icon for this slide: Five small cards in a row: a cross on each wrong option (A, B, D and E) and a single tick on C, the correct option. Icons contain no letters or numbers.
 
 EXACT TEXT. Render exactly as written, character for character, no changes:
 Headline: "Why the others fail, and the pearl"
