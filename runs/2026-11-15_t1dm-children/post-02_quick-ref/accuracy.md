@@ -16,3 +16,6 @@ Doses/thresholds for owner's manual check: all seven percentages above.
 
 Text check (--max-body 60): PASS.
 Send-backs: none. Confirmed in open guidelines: 0 of 7; unconfirmed: 7.
+
+## Update after Supervisor review
+- No slide change. ADA SoC 2026 S2 (PMC12690183) and 2025 S2 (PMC11635041) returned abstract only via the PubMed tool; nothing readable. All rows remain UNCONFIRMED (confirmed 0, different 0).

@@ -38,7 +38,7 @@
 
 ## Slide 7: Consider monogenic diabetes in this pattern
 **Headline:** Consider monogenic diabetes in this pattern
-**Body:** Monogenic: under 25, non-insulin-dependent, autosomal dominant across three generations, no islet autoantibodies, no acanthosis. Confirm by gene sequencing. Consider it in the 10% with no autoimmunity or insulin resistance, mainly those labelled T2DM.
+**Body:** Monogenic: under 25, non-insulin-dependent, autosomal dominant across three generations, no islet autoantibodies, no acanthosis. Confirm by gene sequencing. Also consider it in insulin-sensitive youth without islet autoimmunity: 10% of one US registry.
 **Visual:** A DNA strand beside a three-generation family tree, with a gene-test tube icon.
 **Source:** p.10, p.11
 
@@ -55,5 +55,5 @@
 | US registry: 55% autoimmune and insulin sensitive; 16% non-autoimmune and insulin resistant; 20% both; 10% insulin sensitive without islet autoimmunity | p.10 |
 | Up to 10% of T1DM have an affected close relative, against 75 to 90% of T2DM | p.9 |
 | Monogenic diabetes: non-insulin-dependent before age 25, autosomal dominant across three generations, no autoantibodies, no acanthosis | p.11 |
-| Additional evaluation for monogenic diabetes suggested in the 10% insulin sensitive without islet autoimmunity, those labelled T2DM | p.10 |
+| 10% of a US registry were insulin sensitive without islet autoimmunity (mostly labelled T1DM, type 1B; the rest T2DM); these need further evaluation for monogenic diabetes | p.10 |
 | Monogenic diabetes diagnosed by direct gene sequencing | p.11 |

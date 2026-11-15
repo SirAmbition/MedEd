@@ -44,7 +44,7 @@
 
 ## Slide 8: Steroids and critical illness can raise glucose
 **Headline:** Steroids and critical illness can raise glucose
-**Body:** In a previously healthy child, diabetes is by far the commonest cause of significant hyperglycaemia. Non-diabetic causes include critical illness, high-dose glucocorticoids and acute sympathomimetic drugs. Drug-induced diabetes: glucocorticoids, tacrolimus, antipsychotics.
+**Body:** In a previously healthy child, diabetes is by far the commonest cause of significant hyperglycaemia. Non-diabetic causes include critical illness, high-dose glucocorticoids and acute sympathomimetic drugs. Drug-induced diabetes: glucocorticoids, tacrolimus, atypical antipsychotics.
 **Visual:** A stack of three drug-pill icons beside a single-lens magnifier over a glucose line.
 **Source:** p.10, p.11, p.12
 
@@ -82,5 +82,5 @@
 | Low C-peptide for glucose in T1DM; high in T2DM | p.10 |
 | In previously healthy child, diabetes is the commonest cause of significant hyperglycaemia | p.10 |
 | Non-diabetic causes: critical illness, high-dose glucocorticoids, acute sympathomimetic agents | p.10, p.11 |
-| Drug-induced diabetes: glucocorticoids, tacrolimus, antipsychotics and others | p.12 |
+| Drug-induced diabetes: glucocorticoids, tacrolimus, atypical antipsychotics and others | p.12 |
 | Renal glycosuria or Fanconi syndrome gives glycosuria with normal plasma glucose | p.12 |
