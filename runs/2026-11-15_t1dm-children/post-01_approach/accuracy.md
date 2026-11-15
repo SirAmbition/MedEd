@@ -23,3 +23,6 @@ Send-backs: none. Confirmed in open guidelines: 0 of 10 rows; unconfirmed: 10.
 ## Update after Supervisor review
 - S8 and key claim now say 'atypical antipsychotics'. Text check re-run: PASS.
 - Second open-guideline attempt: ADA SoC 2026 S2 (PMC12690183) and 2025 S2 (PMC11635041) returned abstract only, so no ADA confirmation could be read. Counts: confirmed 0, different 0, unconfirmed 10.
+
+## Update after compliance review
+- Wording changed on slides listed in compliance.md 'Fixes applied'; every changed line re-checked against the cited page; figures unchanged. Open-guideline column unchanged. Text check PASS.

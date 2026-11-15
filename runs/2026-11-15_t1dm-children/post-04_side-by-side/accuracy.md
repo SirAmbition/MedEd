@@ -24,3 +24,6 @@ Send-backs: none. Confirmed in open guidelines: 0 fully, 2 partial (gene sequenc
 - S7 reworded to: 'Also consider it in insulin-sensitive youth without islet autoimmunity: 10% of one US registry.' S5 '10% had neither' is consistent (neither autoimmunity nor insulin resistance).
 - Text check re-run: PASS.
 - Second open-guideline attempt: ADA SoC 2026 S2 (PMC12690183) and ADA SoC 2025 S2 (PMC11635041) were fetched via the PubMed full-text tool but returned only the abstract (full text empty), so nothing could be read; no ADA confirmation recorded. ISPAD 2022 definition/classification (pmid 36537527) and DKA (36537531) chapters are not in PMC. Counts: confirmed 0, partial 2 (ISPAD monogenic, as above), different 0, unconfirmed 8.
+
+## Update after compliance review
+- Wording changed on slides listed in compliance.md 'Fixes applied'; every changed line re-checked against the cited page; figures unchanged. Open-guideline column unchanged. Text check PASS.

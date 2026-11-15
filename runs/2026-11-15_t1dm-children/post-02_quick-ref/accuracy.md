@@ -19,3 +19,6 @@ Send-backs: none. Confirmed in open guidelines: 0 of 7; unconfirmed: 7.
 
 ## Update after Supervisor review
 - No slide change. ADA SoC 2026 S2 (PMC12690183) and 2025 S2 (PMC11635041) returned abstract only via the PubMed tool; nothing readable. All rows remain UNCONFIRMED (confirmed 0, different 0).
+
+## Update after compliance review
+- Wording changed on slides listed in compliance.md 'Fixes applied'; every changed line re-checked against the cited page; figures unchanged. Open-guideline column unchanged. Text check PASS.

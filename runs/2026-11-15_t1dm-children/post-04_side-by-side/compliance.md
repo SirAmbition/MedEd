@@ -18,3 +18,11 @@ AHPRA: no patient information, no individual advice, no testimonials. Disclosure
 Flags: 9 (2 high, 3 medium, 4 low) across 7 slides.
 
 VERDICT: FIX NEEDED
+
+## Fixes applied (GM A, after compliance review)
+All 9 flags accepted. Text check PASS.
+- S1: "No set of criteria or diagnostic test" run replaced (p.9).
+- S2: A2 rewrite (p.9). S3: headline "Up to 30% of clinical T2DM has antibodies"; body says "may be a slowly progressive autoimmune diabetes" (p.10).
+- S4: A2 rewrite (p.9). S5: registry shares reordered (20, 55, 16, 10) and "pattern typical of" wording removed to "typical of obesity with T1DM"; "In one US registry" kept (p.10).
+- S6: headline "Family history: a wide gap between the types" (removes the comparative claim); body reworded, 10% vs 75 to 90% (p.9).
+- S7: criteria reordered and reworded, "Confirm by sequencing", insulin-sensitive youth without islet autoimmunity (10% of one registry) (p.10, p.11).

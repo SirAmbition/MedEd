@@ -19,3 +19,14 @@ AHPRA: no patient information, no individual advice, no testimonials. Friday Cas
 Flags: 9 (1 high, 4 medium, 4 low).
 
 VERDICT: FIX NEEDED
+
+## Fixes applied (GM A, after compliance review)
+All 9 flags accepted. Text check PASS.
+- S1: body now says repeat testing is needed unless symptoms are unequivocal (p.8); no "not required".
+- S2: reordered and reworded (wet nappies, night wetting, daytime wetting, thirst).
+- S4: antibody order changed to ZnT8, GAD65, IAA, IA-2; "10 to 14 days" run reworded to "about 10 to 14 days after insulin is first given" (p.9).
+- S5: "needs confirmation by another measure" now "confirm ... with a second measure"; "on more than one occasion" now "on two occasions" (p.8, p.14 "at least two").
+- S6: "Most T1DM shows islet antibodies, the type 1A pattern" (p.9); type 1B wording kept (p.10).
+- S7: headline "Measure C-peptide once the child has recovered"; body says "can suppress" (p.10).
+- S8: reworded; drug list reordered (atypical antipsychotics, tacrolimus, glucocorticoids) (p.12).
+- S9: reworded (p.12). S10: now "Working order, not a protocol".

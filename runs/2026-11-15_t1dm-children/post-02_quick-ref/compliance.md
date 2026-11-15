@@ -14,3 +14,8 @@ AHPRA: no patient information, no individual advice, no testimonials. Friday Cas
 Flags: 2 (1 medium AHPRA framing, 1 medium verbatim run), plus 1 low note.
 
 VERDICT: FIX NEEDED
+
+## Fixes applied (GM A, after compliance review)
+Both flags accepted. Text check (--max-body 60) PASS.
+- Title and headline now "Childhood T1DM risk by affected relative" (clinician-facing).
+- Body: "of an affected father 3 to" run removed; now "Child's risk: father affected 3 to 8%, mother affected 1 to 4% (father higher)". Row order is the post's own (parents, none, sibling, DZ, MZ, both parents). Figures unchanged (p.3, p.4).
