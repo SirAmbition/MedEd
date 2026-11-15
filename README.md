@@ -1,6 +1,6 @@
 # Medical Education Instagram: Project README
 
-> Working document. Update as decisions are made. Last updated: 14 Nov 2026 (v0.6)
+> Working document. Update as decisions are made. Last updated: 15 Nov 2026 (v0.7)
 
 ---
 
@@ -186,7 +186,7 @@ Upload PDF or notes (default: 4 posts, one per series)
  9. Script: build_package.py (prompts, alt-text scaffold, caption skeleton, checklist)
 10. B1 Visual and Packaging: polish (layouts, alt-text visuals, caption, Pinterest)
 11. Script: check_sync.py (one final consistency check)
-12. Supervisor: report to ME. Later: B3 Image QA on my images; B2 renders any slide that fails twice
+12. Supervisor: package_zip.py (one ZIP per topic), then report to ME. Later: B3 Image QA on my images; B2 renders any slide that fails twice
 ```
 Steps run in order on purpose: v0.5 ran some in parallel and reviewers ended up checking stale drafts. Parallelism now happens across posts (4 posts move through the line together), not within one post.
 
@@ -219,6 +219,18 @@ runs/2026-11-20_hyperkalaemia/
     alt-text.txt          accessibility text per slide
     pinterest.txt         pin title and description
     checklist.md          every check ticked before it can be posted
+```
+
+### Delivery: one ZIP per topic
+Every run is also delivered as one ZIP per topic, made by `package_zip.py`, laid out as Topic, then Post 1 to Post 4, then that post's files:
+```
+T1DM-in-children_2026-11-15.zip
+  T1DM in children (2026-11-15)/
+    run-summary.md, 00_source.md, 01_extract.md, 02_plan.md, calendar-rows.csv, log/
+    Post 1 (Approach)/       slides.md, caption.txt, image-prompts.md, alt-text.txt, ...
+    Post 2 (Quick Ref)/      ...
+    Post 3 (Friday Case)/    ...
+    Post 4 (Side by Side)/   ...
 ```
 
 ### What I still do (about 10 to 15 minutes per post)
@@ -283,6 +295,7 @@ Three tiers. I talk only to the Project Supervisor. Each agent reads only its on
 | check_text.py | Word counts, dash checks and US spelling checks that agents used to do by hand |
 | build_package.py | Hand-written prompts, alt-text scaffolds, caption skeleton and checklist (from the frozen slides.md and agents/brand/style-block.md) |
 | check_sync.py | Multiple consistency loops: one final check that prompts and alt text match the slides word for word |
+| package_zip.py | Hand-zipping: one ZIP per topic (Topic, then Post 1 to 4, then files). Never includes verbatim licensed source text |
 
 ### Rules
 1. **Sequential within a post, parallel across posts.** No reviewer works on a draft that can still change.
@@ -413,3 +426,4 @@ Target: A$1,000/month
 | 15 Nov 2026 | v0.4 | Raised content level to final-year to BPT (Writer rewritten, Ingestor and Planner aligned). New 3-tier structure: Project Supervisor (Opus 5.5 high), two General Managers (Sonnet 5.5 medium) and two teams of 5 workers (Haiku 5.5 medium). Growth Analyst merged into Content Planner |
 | 15 Nov 2026 | v0.5 | Speed rework: role cards in agents/, series templates with rubrics, Ingestor and Planner merged (A1 Source Analyst), Fact Checker removed (GM A owns accuracy), parallel steps, extract caching, light one-line logging. Workers stay on Haiku 5.5 |
 | 15 Nov 2026 | v0.6 | Lean rework from the run review: Planner and Writer merged (A1), Designer and Packager merged (B1), Slide Assembler, Image QA and Product Builder on call, GM B only for multi-post runs, scripts for text checks, prompt and package generation and sync, sequential order with a freeze step, 4 posts per upload by default |
+| 15 Nov 2026 | v0.7 | Delivery as one ZIP per topic (Topic, then Post 1 to 4, then files) via new script package_zip.py; Supervisor packages before the final report |

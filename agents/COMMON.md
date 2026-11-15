@@ -9,5 +9,5 @@
   `HH:MM | FROM -> TO | what you did | decision or key flag`
   Put detail in your output files, not the log.
 - Worker replies to the GM: at most 8 lines: files written, 2 to 3 key decisions, confidence, flags.
-- Scripts (in /home/claude/agents/scripts/): check_text.py (word limits, dashes, US spellings), build_package.py (prompts, alt-text scaffold, caption skeleton, checklist from frozen slides.md), check_sync.py (final consistency check). Use them; don't redo their work by hand.
+- Scripts (in /home/claude/agents/scripts/): check_text.py (word limits, dashes, US spellings), build_package.py (prompts, alt-text scaffold, caption skeleton, checklist from frozen slides.md), check_sync.py (final consistency check), package_zip.py (one ZIP per topic for delivery). Use them; don't redo their work by hand.
 - slides.md uses the canonical format in a1-planner-writer.md so the scripts can read it.

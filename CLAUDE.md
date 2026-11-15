@@ -14,6 +14,7 @@ This repository is a faceless medical education Instagram project. Every session
   - `python3 agents/scripts/check_text.py <post>/slides.md`
   - `python3 agents/scripts/build_package.py <post> --stencil "<stencil>" --topic "<topic>"`
   - `python3 agents/scripts/check_sync.py <post>`
+  - `python3 agents/scripts/package_zip.py <run> --topic "<topic>"` (one ZIP per topic in `exports/`: Topic, then Post 1 to 4, then files)
 - Write run output to `runs/YYYY-MM-DD_topic/` in the folder layout from README section 5.
 - Never mark a post ready if any check failed. Never post or publish anything.
 
