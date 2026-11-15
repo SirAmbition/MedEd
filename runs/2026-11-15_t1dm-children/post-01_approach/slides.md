@@ -24,8 +24,8 @@
 **Visual:** A syringe beside four labelled sample tubes, with a clock icon showing timing.
 **Source:** p.9
 
-## Slide 5: HbA1c is a 12-week average, not a glucose
-**Headline:** HbA1c is a 12-week average, not a glucose
+## Slide 5: HbA1c looks back 10 to 12 weeks
+**Headline:** HbA1c looks back 10 to 12 weeks
 **Body:** HbA1c of 6.5% or more needs confirmation by another measure in children. Fasting glucose of 7.0 mmol/L or more on more than one occasion also counts. Haemoglobin variants and rapid red-cell turnover mislead HbA1c.
 **Visual:** A 10 to 12 week calendar strip with a glucose drop-line, no numbers on the icon.
 **Source:** p.8
@@ -38,7 +38,7 @@
 
 ## Slide 7: C-peptide is only useful after recovery
 **Headline:** C-peptide is only useful after recovery
-**Body:** Measure insulin and C-peptide after recovery from the hyperglycaemic stress. Glucotoxicity and acute illness suppress both. Low for the glucose points to T1DM; high points to T2DM.
+**Body:** If T2DM is possible, measure insulin and C-peptide after recovery from the hyperglycaemic stress. Glucotoxicity and acute illness suppress both. Low for the glucose points to T1DM; high points to T2DM.
 **Visual:** A timeline with an acute-illness block and a recovery arrow leading to a lab tube.
 **Source:** p.10
 
@@ -78,7 +78,7 @@
 | HbA1c reflects about 10 to 12 weeks | p.8 |
 | Haemoglobin variants and rapid red-cell turnover affect HbA1c | p.8 |
 | Antibody positive is type 1A; clinical T1DM with no antibodies and no other cause is type 1B | p.10 |
-| Insulin and C-peptide suppressed by glucotoxicity and acute illness; measure after recovery | p.10 |
+| Insulin and C-peptide measured when T2DM is possible; suppressed by glucotoxicity and acute illness, so measure after recovery | p.10 |
 | Low C-peptide for glucose in T1DM; high in T2DM | p.10 |
 | In previously healthy child, diabetes is the commonest cause of significant hyperglycaemia | p.10 |
 | Non-diabetic causes: critical illness, high-dose glucocorticoids, acute sympathomimetic agents | p.10, p.11 |

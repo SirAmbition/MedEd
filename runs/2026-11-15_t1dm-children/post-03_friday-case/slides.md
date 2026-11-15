@@ -26,7 +26,7 @@
 
 ## Slide 5: Why the others fail, and the pearl
 **Headline:** Why the others fail, and the pearl
-**Body:** A: glycosuric polyuria masks the usual falling urine output. B: candidiasis should prompt a glucose check, not treatment alone. D: no diarrhoeal clue. E: Cushing needs growth velocity falling despite weight gain; height is steady.
+**Body:** A: glycosuric polyuria masks the usual falling urine output. B: candidiasis should prompt a glucose check. D: no diarrhoeal clue. E: Cushing hyperglycaemia is very rare in children; no growth change is described.
 **Visual:** Five small cards with a red cross on each wrong option, one green tick on C.
 **Source:** p.6, p.7, p.11, p.12, p.14
 
@@ -38,5 +38,5 @@
 | Prolonged or recurrent nappy candidiasis should prompt glucose checking | p.7 |
 | Young child with dehydration, abdominal pain or fatigue: check glucose and urine glucose | p.7 |
 | Glucose and urine glucose measurement recommended in young children with these symptoms | p.14 |
-| Cushing syndrome concern when growth velocity falls despite increasing weight | p.12 |
+| Cushing syndrome concern when growth velocity falls despite increasing weight; hyperglycaemia very rare in childhood Cushing | p.12 |
 | Cushing diagnosis uses urinary or salivary cortisol and overnight dexamethasone suppression | p.11 |

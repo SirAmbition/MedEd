@@ -9,7 +9,7 @@
 ## Slide 2: Weight overlaps; age under 10 does not
 **Headline:** Weight overlaps; age under 10 does not
 **Body:** Up to 25% of T1DM are overweight, and T2DM is usually BMI 95th centile or more. About 45% of T1DM presents before age 10; almost all T2DM presents after 10.
-**Visual:** Two bars: a wide overlap band for weight, a clean split at age 10 for onset.
+**Visual:** Two bars: a wide overlap band for weight; for age, T1DM spans both sides of 10 and T2DM sits only after it.
 **Source:** p.9
 
 ## Slide 3: Up to 30% of T2DM is antibody positive
@@ -38,7 +38,7 @@
 
 ## Slide 7: Consider monogenic diabetes in this pattern
 **Headline:** Consider monogenic diabetes in this pattern
-**Body:** Monogenic: under 25, non-insulin-dependent, autosomal dominant across three generations, no islet autoantibodies, no acanthosis. Confirm by gene sequencing. Consider it for the 10% insulin-sensitive, antibody-negative group.
+**Body:** Monogenic: under 25, non-insulin-dependent, autosomal dominant across three generations, no islet autoantibodies, no acanthosis. Confirm by gene sequencing. Consider it in the 10% with no autoimmunity or insulin resistance, mainly those labelled T2DM.
 **Visual:** A DNA strand beside a three-generation family tree, with a gene-test tube icon.
 **Source:** p.10, p.11
 
@@ -55,5 +55,5 @@
 | US registry: 55% autoimmune and insulin sensitive; 16% non-autoimmune and insulin resistant; 20% both; 10% insulin sensitive without islet autoimmunity | p.10 |
 | Up to 10% of T1DM have an affected close relative, against 75 to 90% of T2DM | p.9 |
 | Monogenic diabetes: non-insulin-dependent before age 25, autosomal dominant across three generations, no autoantibodies, no acanthosis | p.11 |
-| Monogenic diabetes should be considered in the insulin-sensitive, antibody-negative group | p.10 |
+| Additional evaluation for monogenic diabetes suggested in the 10% insulin sensitive without islet autoimmunity, those labelled T2DM | p.10 |
 | Monogenic diabetes diagnosed by direct gene sequencing | p.11 |
